@@ -1,2 +1,3 @@
 # git-practice
-This is git practice app.
+
+# This is git practice app.
