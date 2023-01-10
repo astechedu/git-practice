@@ -14,6 +14,5 @@
 [![Ubuntu Web Development Install Python VENV Part-13 | Virtual Environment For Separate Projects](https://img.youtube.com/vi/ju3HSu8QBcE/0.jpg)](https://www.youtube.com/watch?v=ju3HSu8QBcE)
 
 
-<img src"https://img.youtube.com/vi/ZscIMEVH-qc/0.jpg">
-
-[![]https://img.youtube.com/vi/ZscIMEVH-qc/0.jpg]()
+[![](https://img.youtube.com/vi/ZscIMEVH-qc/0.jpg)](#)
+ 
